@@ -1,4 +1,4 @@
-# 2. Change docker hub repo to yours, i.e,. replace shresthaajay/node-hello-world with your repo.
+# 2. Change docker hub repo to yours, i.e,. replace shresthaajay/node-hello-world with you
 #
 ## Reference: https://circleci.com/blog/using-circleci-workflows-to-replicate-docker-hub-automated-builds/
 
